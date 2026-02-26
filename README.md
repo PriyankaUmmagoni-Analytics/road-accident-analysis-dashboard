@@ -55,7 +55,7 @@ Data Cleaning Techniques
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](Dashboard_preview.png)
+![Dashboard Preview](Dashboard_preview.png.png)
 
 ## 🎯 Skills Demonstrated
 
