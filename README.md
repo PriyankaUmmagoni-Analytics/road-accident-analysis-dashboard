@@ -1,11 +1,11 @@
 🚦 Road Accident Analysis Dashboard
 
-📊 Project Overview
+## 📊 Project Overview
 
 This project presents an interactive Excel dashboard analyzing road accident data to identify trends, casualty severity, vehicle impact, and road conditions.
 The dashboard is built using Pivot Tables, KPI metrics, slicers, and advanced Excel visualizations.
 
-📌 Key Insights
+## 📌 Key Insights
 
 Total Casualties: 66,438
 
@@ -21,7 +21,7 @@ Most casualties occurred during Daylight
 
 Urban areas reported higher accidents compared to rural areas
 
-📈 Dashboard Features
+## 📈 Dashboard Features
 
 KPI Cards
 
@@ -37,7 +37,7 @@ Area-wise Comparison
 
 Interactive Filter Panel
 
-🛠 Tools Used
+## 🛠 Tools Used
 
 Microsoft Excel
 
@@ -53,11 +53,11 @@ Donut Charts
 
 Data Cleaning Techniques
 
-📷 Dashboard Preview
+## 📷 Dashboard Preview
 
-![Dashboard preview](Dashboard_preview.png)
+![Dashboard Preview](Dashboard_preview.png)
 
-🎯 Skills Demonstrated
+## 🎯 Skills Demonstrated
 
 Data Cleaning
 
